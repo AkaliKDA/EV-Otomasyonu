@@ -1,0 +1,57 @@
+.center {
+    border: 3px solid black;
+    padding: 10px;
+    width: 600px;
+    height: 525px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    margin: 0;
+    line-height: 2px;
+    position: relative;
+    border-radius: 20px;
+    backdrop-filter: blur(10px);
+    position: absolute;
+    line-height: 5px;
+   
+}
+.ap-p {
+    border: 2px solid black;
+    padding: 10px;
+    text-align: right;
+    
+    line-height: 2px;
+    border-radius: 20px;
+    line-height: 5px;
+}
+.baş {
+    right: 200px;
+    border-radius: 20px;
+    height: 60px;
+    width: 60px;
+    line-height: 5px;
+    height: 50px;
+    
+}
+.dal {
+    height: 50px;
+    width: 50px;
+    
+}
+.di {
+   
+    text-align: end;
+}
+.lo {
+    border: 2px solid black;
+    padding: 10px;
+    text-align: center;
+    
+    line-height: 2px;
+    border-radius: 20px;
+    line-height: 5px;
+    text-align: center;
+   
+   
+    
+}
