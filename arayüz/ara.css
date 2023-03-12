@@ -36,6 +36,7 @@
 .dal {
     height: 50px;
     width: 50px;
+    border-radius: 20px;
     
 }
 .di {
@@ -47,11 +48,13 @@
     padding: 10px;
     text-align: center;
     
-    line-height: 2px;
+    line-height: 5px;
     border-radius: 20px;
     line-height: 5px;
     text-align: center;
-   
-   
-    
+    list-style-position: 5px;
+}
+.iü {
+     height: auto;
+     text-align: center;
 }
